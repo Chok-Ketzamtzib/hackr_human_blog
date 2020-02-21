@@ -2,21 +2,21 @@
 
 return [
     'production' => false,
-    'baseUrl' => 'https://artisan-static-demo.netlify.com',
+    'baseUrl' => 'https://williamjwakefield.netlify.com',
     'site' => [
-        'title' => 'My Jigsaw Blog',
-        'description' => 'Personal blog of John Doe.',
+        'title' => 'hackr_human',
+        'description' => 'Personal blog of William J. Wakefield.',
         'image' => 'default-share.png',
     ],
     'owner' => [
-        'name' => 'John Doe',
-        'twitter' => 'johndoe',
-        'github' => 'johndoe',
+        'name' => 'William J. Wakefield',
+        'twitter' => 'ajtziib-william',
+        'github' => 'Chok-Ketzamtzib',
     ],
     'services' => [
-        'analytics' => 'UA-XXXXX-Y',
+        'analytics' => 'UA-158808973-1',
         'disqus' => 'artisanstatic',
-        'cloudinary' => 'artisanstatic',
+        'cloudinary' => 'hackrhuman',
         'jumprock' => 'artisanstatic',
     ],
     'collections' => [
