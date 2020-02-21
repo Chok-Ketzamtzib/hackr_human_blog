@@ -13,7 +13,7 @@ I was supposed to go to Michigan Hackers' Hack Night event today, but when I cam
 
 With Netlify, I learned about the whole programming JAMstack philosophy, where all the dependencies and stuff are all handled in the background for the developer and user, and it is a quick and simple 3 steps to deploy any project. It has really helped with my passion initiative with hosting our KUHacks Team Site, and also our team site. 
 
-![](/images/kuhacks_delta_source_code_font_logo.png)
+![KUHacks Logo 2020](/images/kuhacks_delta_source_code_font_logo.png)
 
 Also, for KUHacks we just had an old A-section friend of mine apply to become part of the team! I cannot wait to interview him, his react skills are going to really help with our #creators committee. 
 
