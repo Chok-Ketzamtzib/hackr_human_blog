@@ -1,7 +1,7 @@
 <?php
 
 return [
-    'production' => false,
+    'production' => true,
     'baseUrl' => 'https://williamjwakefield.netlify.com',
     'site' => [
         'title' => 'hackr_human',
