@@ -37,11 +37,13 @@
 
     <footer>
         <small>
-           Posts coded fresh with ❤️ and ☕. Feel free to see the source code at my GitHub <a href="https://github.com/chok-ketzamtzib"></a>.
+           Posts coded fresh with ❤️ and ☕. Feel free to see the source code at my <a href="https://github.com/chok-ketzamtzib">Github</a>.
         </small>
     </footer>
 
+    <canvas class="background"></canvas>
     <script src="{{ mix('js/main.js', 'assets/build') }}"></script>
+    <script src="js/particles.min.js"></script>
     @includeWhen($page->production, '_partials.analytics')
     @include('_partials.cms.identity_redirect')
 

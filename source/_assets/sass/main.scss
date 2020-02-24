@@ -3,6 +3,7 @@
 
 @import "~highlight.js/styles/atom-one-dark";
 
+
 button[data-sharer] {
     color: #fff;
 }
@@ -11,3 +12,8 @@ button[data-sharer] {
     padding: 5px;
     border: 2px solid blue;
 }
+
+body {
+    background-color: red;
+}
+

@@ -2930,6 +2930,11 @@ Object.defineProperty(__webpack_exports__, "__esModule", { value: true });
 
 
 
+window.onload = function () {
+    Particles.init({
+        selector: 'body'
+    });
+};
 var clickMe = document.querySelector('.test-js');
 
 if (clickMe) {

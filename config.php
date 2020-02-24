@@ -5,7 +5,7 @@ return [
     'baseUrl' => 'https://williamjwakefield.netlify.com',
     'site' => [
         'title' => 'hackr_human',
-        'description' => 'Personal blog of William J. Wakefield.',
+        'description' => 'Personal blog of William J. Wakefield + hackr_human.',
         'image' => 'default-share.png',
     ],
     'owner' => [
